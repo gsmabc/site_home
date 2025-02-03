@@ -20,10 +20,10 @@
             {{ config.author }}
           </a>
         </span>
-        <!-- 站点备案 -->
+        <!-- 站点备案 若您接入的是工信部备案，请更换下方链接为https://beian.miit.gov.cn-->
         <span>
           &amp;
-          <a v-if="siteIcp" href="https://beian.miit.gov.cn" target="_blank">
+          <a v-if="siteIcp" href="https://icp.gov.moe/?keyword=20250501" target="_blank">
             {{ siteIcp }}
           </a>
         </span>
