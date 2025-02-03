@@ -1,10 +1,10 @@
 {
   "name": "home",
-  "author": "imsyy",
-  "github": "https://github.com/imsyy/home",
-  "home": "https://imsyy.top",
+  "author": "CatsYezuan",
+  "github": "https://github.com/CatsYezuan/site_home",
+  "home": "https://raineko.net",
   "private": true,
-  "version": "4.1.4",
+  "version": "1.0.7",
   "type": "module",
   "scripts": {
     "dev": "vite --host",
