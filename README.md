@@ -1,6 +1,6 @@
 <p>
 <strong><h2>猫猫の主页</h2></strong>
-简单的小主页，fork自imsyy/home release4.1.4版本，同样以MIT协议保持开源。
+简单的小主页，fork自imsyy/home 最新分支版本，并对该网站进行了一些功能性增加与更改，同样以MIT协议保持开源。
 </p>
 
 ![猫猫の主页](/screenshots/main.jpg)
