@@ -40,8 +40,8 @@ const openMusicShow = ref(false);
 
 // 一言数据
 const hitokotoData = reactive({
-  text: "这里应该显示一句话",
-  from: "叶钻猫猫",
+  text: "我啊，希望自己能做一个普通的███。「对我来说，做一个普通的███，只是一种奢望」。",
+  from: "RainSummer",
 });
 
 // 获取一言数据
@@ -58,8 +58,8 @@ const getHitokotoData = async () => {
         fill: "#efefef",
       }),
     });
-    hitokotoData.text = "这里应该显示一句话";
-    hitokotoData.from = "叶钻猫猫";
+    hitokotoData.text = "我啊，希望自己能做一个普通的███。「对我来说，做一个普通的███，只是一种奢望」。";
+    hitokotoData.from = "RainSummer";
   }
 };
 
