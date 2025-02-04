@@ -1,5 +1,5 @@
 <template>
-  <div class="more-content">BakaWeather今夏上线哦~</div>
+  <div class="more-content">雨夏是baka!</div>
 </template>
 
 <style lang="scss" scoped>
